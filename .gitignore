@@ -51,3 +51,4 @@ __azurite_db*__.json
 .idea
 
 handler.exe
+/keyfile
