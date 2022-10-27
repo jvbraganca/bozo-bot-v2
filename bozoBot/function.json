@@ -1,0 +1,10 @@
+{
+  "bindings": [
+    {
+      "name": "bozoBot",
+      "type": "timerTrigger",
+      "direction": "in",
+      "schedule": "0 */15 * * * *"
+    }
+  ]
+}

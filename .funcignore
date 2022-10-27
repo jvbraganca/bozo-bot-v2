@@ -1,0 +1,8 @@
+*.go
+*.md
+go.mod
+go.sum
+.idea/*
+.vscode/*
+__azurite*.json
+__*
